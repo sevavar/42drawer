@@ -1,5 +1,5 @@
 let cols = 60;
-let rows = 120;
+let rows = 60;
 let pixelSize = 40;
 let subpixelWidth = pixelSize / 8;
 let subdivisionLevels;
