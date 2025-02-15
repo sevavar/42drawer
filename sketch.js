@@ -9,7 +9,7 @@ let maxSubdivision = 4;
 let delay = 20;
 let lastUpdateTime;
 let margin = 5;
-const colors = ['#404347', '#FF2020', '#0d0', '#2D2DFF'];
+const colors = ['#404347', '#FF2020', '#0D0', '#2D2DFF'];
 const bgColor = '#222222';
 
 function setup() {
